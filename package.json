@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "node js backend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VentSaulCS/Readme-Generator.git"
+  },
+  "keywords": [
+    "inquire"
+  ],
+  "author": "Saul V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VentSaulCS/Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/VentSaulCS/Readme-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
