@@ -57,8 +57,8 @@ function init() {
     .then((answers) => {
       // Use user feedback for... whatever!!
       console.log(answers)
-      // var markdown = generateMarkdown(answers)
-      // console.log(markdown)
+      var markdown = generateMarkdown(answers)
+      console.log(markdown)
 
     })
     .catch((error) => {
