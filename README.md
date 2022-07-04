@@ -1,9 +1,5 @@
 
-
-
-
-
-# title
+# TITLE
 
 ## Table of Contents
 * [Description](#description)
@@ -18,7 +14,7 @@
 description
 
 ### License
-![GitHub license](https://img.shields.io/badge/license-None-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ### Installation
 requirements
@@ -27,7 +23,7 @@ requirements
 testing
 
 ### Contributors
-namer
+Name
 
 ### Github
 [GithubProfile](https://github.com/undefined
